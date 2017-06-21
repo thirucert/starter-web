@@ -7,3 +7,5 @@ section 4: this is section three
 section 5: this is section four
 
 section 6: deployments
+
+Section 7: installations
